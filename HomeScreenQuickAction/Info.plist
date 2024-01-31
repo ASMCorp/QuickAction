@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIApplicationShortcutItems</key>
+	<array>
+		<dict>
+			<key>UIApplicationShortcutItemIconSymbolName</key>
+			<string>star.fill</string>
+			<key>UIApplicationShortcutItemSubtitle</key>
+			<string>This is the option 1</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>🔴 Option 1</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>option1</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconSymbolName</key>
+			<string>moon.stars</string>
+			<key>UIApplicationShortcutItemSubtitle</key>
+			<string>This is the option 2</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>🟢 Option 2</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>option2</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>Gift</string>
+			<key>UIApplicationShortcutItemSubtitle</key>
+			<string>This is the option 3</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>🔵 Option 3</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>option3</string>
+		</dict>
+	</array>
+</dict>
+</plist>
